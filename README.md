@@ -134,9 +134,10 @@ jdk的代码非常庞大，内容也非常繁杂。最重要的大体包括：�
 《Effective Java 中文版》  
 《数据结构与算法分析：Java语言描述》  
 
-#### 相关文章
+### 相关文章
 
 [疫苗：JAVA HASHMAP的死循环](https://coolshell.cn/articles/9606.html)
+[Java 编程思想](https://java.quanke.name/) 初级java编程
 
 
 ## SSM
@@ -156,6 +157,10 @@ SSM最擅长的是Web开发。目前的表现形式逐渐多样化，随着前�
 《深入剖析Tomcat》  
 
 其实跟着文档走一遍就行了，很多书籍就是翻译而已。
+
+### 相关文章
+
+[MyBatis中文文档](http://www.mybatis.org/mybatis-3/zh/index.html)
 
 ## 并发编程
 
