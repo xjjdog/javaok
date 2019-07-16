@@ -134,6 +134,10 @@ jdk的代码非常庞大，内容也非常繁杂。最重要的大体包括：�
 《Effective Java 中文版》  
 《数据结构与算法分析：Java语言描述》  
 
+#### 相关文章
+
+[疫苗：JAVA HASHMAP的死循环](https://coolshell.cn/articles/9606.html)
+
 
 ## SSM
 
