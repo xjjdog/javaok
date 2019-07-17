@@ -43,6 +43,11 @@ https://github.com/sayhiai/javaok
 《编程之美》  
 《数学之美》  
 
+#### 相关资源
+
+[CSDN极丰富算法资源](https://blog.csdn.net/v_JULY_v)  
+
+
 ## 数据库基础 MySQL
 
 MySQL是应用最广的关系型数据库。除了了解基本的使用和建模，一些稍底层的知识也是必要的。
@@ -136,9 +141,9 @@ jdk的代码非常庞大，内容也非常繁杂。最重要的大体包括：�
 
 ### 相关文章
 
-[疫苗：JAVA HASHMAP的死循环](https://coolshell.cn/articles/9606.html)
-[Java 编程思想](https://java.quanke.name/) 初级java编程
-
+[疫苗：JAVA HASHMAP的死循环](https://coolshell.cn/articles/9606.html)  
+[Java 编程思想](https://java.quanke.name/) 初级java编程  
+[浅谈 Java 内存模型](http://www.linkedkeeper.com/1502.html) JMM  
 
 ## SSM
 
