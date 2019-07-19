@@ -124,6 +124,10 @@ JVM还有一个内存模型JMM，用来协调多线程的并发访问。JVM的sp
 
 《深入理解Java虚拟机》  
 
+### 相关资源
+
+[求你了，再问你Java内存模型的时候别再给我讲堆栈方法区了…](https://mp.weixin.qq.com/s/uTmc-dLwPG_t0SMZGKMfQg)  
+
 ## JDK
 
 现在，终于到了java程序员的核心了：JDK，一套依据jvm规范实现的一套API。我们平常的工作，就是组合这些API，来控制程序的行为。
@@ -256,7 +260,8 @@ Kafka的速度非常快，根据ACK的级别配置，可靠性会增加，但速
 
 ### 相关文章
 
-[《“分库分表" ？选型和流程要慎重，否则会失控》](https://mp.weixin.qq.com/s/U_pEF9sfnXeZ7RnhGFnqyg)
+[“分库分表" ？选型和流程要慎重，否则会失控](https://mp.weixin.qq.com/s/U_pEF9sfnXeZ7RnhGFnqyg)  
+[数据库中间件详解](https://mp.weixin.qq.com/s?__biz=MzA5MDA5Njk0NQ==&mid=2456618601&idx=1&sn=c10839f1797e7be1ea41f005b57432df&chksm=87897237b0fefb215dd74c28cf5b524984b8f50d2ef13293e37919774f1c51e36642e489ee38&token=936375027&lang=zh_CN#rd)
 
 
 ## 微服务 & 中间件
