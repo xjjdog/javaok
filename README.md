@@ -66,6 +66,11 @@ MySQL有存储引擎的区别。InnoDB和MyISAM是最常用的，优缺点应该
 《高性能MySQL》  
 《高可用MySQL》  
 
+### 相关资料
+
+[MySQL索引背后的数据结构及算法原理](http://blog.codinglabs.org/articles/theory-of-mysql-index.html)
+
+
 ## 网络基础
 
 网络通信是互联网时代最有魅力的一个特点，可以说我们的工作和生活，每时每刻都在和它打交道。
