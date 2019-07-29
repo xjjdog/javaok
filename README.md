@@ -39,7 +39,7 @@ https://github.com/sayhiai/javaok
   
 ### 书籍
 
-《算法导论》  
+《算法导论》  有人质疑这本书读不下去，这真是太可惜了。
 《编程之美》  
 《数学之美》  
 
@@ -283,6 +283,10 @@ Kafka的速度非常快，根据ACK的级别配置，可靠性会增加，但速
 《可伸缩服务架构：框架与中间件》  
 《Spring Cloud与Docker微服务架构实战》  
 《架构修炼之道》  
+
+### 相关资料
+
+[微服务不是全部，只是特定领域的子集](https://mp.weixin.qq.com/s/8DMwjNYt3WJWXmr2HPn8_w)  
 
 ## 分布式
 
