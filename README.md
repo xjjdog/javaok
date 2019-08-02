@@ -266,6 +266,7 @@ Kafka的速度非常快，根据ACK的级别配置，可靠性会增加，但速
 ### 相关文章
 
 [“分库分表" ？选型和流程要慎重，否则会失控](https://mp.weixin.qq.com/s/U_pEF9sfnXeZ7RnhGFnqyg)  
+[非规范SQL的sharding-jdbc实践](https://mp.weixin.qq.com/s/YaDiIieHpBCCuVraBQv6jg) 最新功能以apache版本为主  
 [数据库中间件详解](https://mp.weixin.qq.com/s?__biz=MzA5MDA5Njk0NQ==&mid=2456618601&idx=1&sn=c10839f1797e7be1ea41f005b57432df&chksm=87897237b0fefb215dd74c28cf5b524984b8f50d2ef13293e37919774f1c51e36642e489ee38&token=936375027&lang=zh_CN#rd)
 
 
