@@ -233,7 +233,8 @@ Redis几乎能适应除搜索外的所有互联网业务，对于其使用来说
 
 ### 相关文章
 
-[《这可能是最中肯的Redis规范了》](https://mp.weixin.qq.com/s/5EH4-isDFxkGAXTWEhrZ-w)
+[《这可能是最中肯的Redis规范了》](https://mp.weixin.qq.com/s/5EH4-isDFxkGAXTWEhrZ-w)  
+[《与亲生的Redis Cluster，来一次亲密接触》](https://mp.weixin.qq.com/s/_sQAxId7yoqyXhy3bENMNw)
 
 ## Kafka
 
