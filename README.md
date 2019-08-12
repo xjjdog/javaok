@@ -153,6 +153,7 @@ jdk的代码非常庞大，内容也非常繁杂。最重要的大体包括：�
 
 [疫苗：JAVA HASHMAP的死循环](https://coolshell.cn/articles/9606.html)  
 [Java 编程思想](https://java.quanke.name/) 初级java编程  
+[不了解这12个语法糖，别说你会Java！](https://mp.weixin.qq.com/s/EBnM7QAOPjDk5bG3M0Mu-w)   
 [浅谈 Java 内存模型](http://www.linkedkeeper.com/1502.html) JMM  
 
 ## SSM
