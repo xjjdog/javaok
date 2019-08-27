@@ -310,7 +310,8 @@ Kafka的速度非常快，根据ACK的级别配置，可靠性会增加，但速
 
 ### 相关文章
 
-[《也浅谈下分布式存储要点》](https://mp.weixin.qq.com/s/T-Sc0YPrPZNFHtoM4JhbZg)
+[《也浅谈下分布式存储要点》](https://mp.weixin.qq.com/s/T-Sc0YPrPZNFHtoM4JhbZg)  
+[【秒杀】一、系统设计要点，从卖病鹅说起](https://mp.weixin.qq.com/s/ewT6iwFC5kCK-rB3WR1vzw)
 
 ### 书籍
 
