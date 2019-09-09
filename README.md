@@ -256,6 +256,7 @@ Kafka的速度非常快，根据ACK的级别配置，可靠性会增加，但速
 
 ### 相关文章
 
+[《分布式消息系统，设计要点。画龙画虎难画骨》](https://mp.weixin.qq.com/s/5sjiKmXlDv6gM3IcekEJew)  
 [《Kafka基础知识索引》](https://mp.weixin.qq.com/s/MKiFehA4EHTv1o23A28Jyg)  
 [《Kafka教程集合 by半兽人》](https://www.orchome.com/kafka/index)
 
