@@ -312,7 +312,8 @@ Kafka的速度非常快，根据ACK的级别配置，可靠性会增加，但速
 ### 相关文章
 
 [《也浅谈下分布式存储要点》](https://mp.weixin.qq.com/s/T-Sc0YPrPZNFHtoM4JhbZg)  
-[【秒杀】一、系统设计要点，从卖病鹅说起](https://mp.weixin.qq.com/s/ewT6iwFC5kCK-rB3WR1vzw)
+[【秒杀】一、系统设计要点，从卖病鹅说起](https://mp.weixin.qq.com/s/ewT6iwFC5kCK-rB3WR1vzw)  
+[《高并发之限流，到底限的什么鬼 （精品长文）》](https://mp.weixin.qq.com/s/UEy272RDQ2-Ygxn3W4x7IA)详细的介绍了guava组件的使用  
 
 ### 书籍
 
