@@ -258,7 +258,8 @@ Kafka的速度非常快，根据ACK的级别配置，可靠性会增加，但速
 
 [《分布式消息系统，设计要点。画龙画虎难画骨》](https://mp.weixin.qq.com/s/5sjiKmXlDv6gM3IcekEJew)  
 [《Kafka基础知识索引》](https://mp.weixin.qq.com/s/MKiFehA4EHTv1o23A28Jyg)  
-[《Kafka教程集合 by半兽人》](https://www.orchome.com/kafka/index)
+[《Kafka教程集合 by半兽人》](https://www.orchome.com/kafka/index)  
+[《【Kafka】基本概念详解，百人培训分享 （小姐姐味道）》(视频)](https://www.bilibili.com/video/av69053201)
 
 ## 分库分表 ShardingJDBC
 
