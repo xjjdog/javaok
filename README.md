@@ -281,7 +281,7 @@ Kafka的速度非常快，根据ACK的级别配置，可靠性会增加，但速
 
 [“分库分表" ？选型和流程要慎重，否则会失控](https://mp.weixin.qq.com/s/U_pEF9sfnXeZ7RnhGFnqyg)  
 [非规范SQL的sharding-jdbc实践](https://mp.weixin.qq.com/s/YaDiIieHpBCCuVraBQv6jg) 最新功能以apache版本为主  
-[数据库中间件详解](https://mp.weixin.qq.com/s?__biz=MzA5MDA5Njk0NQ==&mid=2456618601&idx=1&sn=c10839f1797e7be1ea41f005b57432df&chksm=87897237b0fefb215dd74c28cf5b524984b8f50d2ef13293e37919774f1c51e36642e489ee38&token=936375027&lang=zh_CN#rd)
+[数据库中间件详解](https://mp.weixin.qq.com/s/dNnng_XFX7FSV8t8mfYLmg)
 
 
 ## 微服务 & 中间件
@@ -303,7 +303,8 @@ Kafka的速度非常快，根据ACK的级别配置，可靠性会增加，但速
 
 [这次要是讲不明白Spring Cloud核心组件，那我就白编这故事了](https://mp.weixin.qq.com/s/hjYAddJEqgg3ZWTJnPTD9g)  
 [微服务不是全部，只是特定领域的子集](https://mp.weixin.qq.com/s/8DMwjNYt3WJWXmr2HPn8_w)  
-[设计一个分布式RPC框架](http://www.buildupchao.cn/arch/2019/02/01/design-a-distributed-RPC-structure.html)
+[设计一个分布式RPC框架](http://www.buildupchao.cn/arch/2019/02/01/design-a-distributed-RPC-structure.html)  
+[万字Spring Cloud Gateway2.0，面向未来的技术，了解一下？](https://mp.weixin.qq.com/s/ugUSO-FVk9AtgKo6kL6YjA)
 
 ## 分布式
 
